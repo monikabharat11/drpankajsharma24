@@ -1247,3 +1247,19 @@ responsive
     margin-left: 130px;
   }
 }
+
+
+@media screen and (max-width: 600px) {
+  #healthier {
+    font-size: 20px;
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #advanced {
+    font-size: 38px;
+    margin-left: -20px;
+
+  }
+}
